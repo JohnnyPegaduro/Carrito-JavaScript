@@ -1,0 +1,20 @@
+body {
+    background-image: url("img/fondo.png");
+    color: white !important;
+}
+
+th{
+    color: white ;
+}
+
+.card{
+    background: linear-gradient(to bottom right, #F68505, #9C5401);
+}
+
+span{
+    color: white !important;
+}
+
+td{
+    color: white !important;
+}
